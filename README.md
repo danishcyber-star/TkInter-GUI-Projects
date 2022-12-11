@@ -1,4 +1,5 @@
 # TkInter-GUI-Projects
 It contains TkInter Based Projects like : Sales Bill Generator , Scientific Calculator
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/home.png)
+![alt text](https://github.com/danishcyber-star/TkInter-GUI-Projects/blob/main/Screenshot%20(78).png)
+
